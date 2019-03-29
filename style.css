@@ -47,10 +47,16 @@ body {
 }
 
 #body {
+    font-family: monospace;
+    font-size: 12px;
     width: 580px;
     margin: auto;
     background-color: white;
 
+}
+
+#links {
+    margin-left: 40px;
 }
 
 .code {

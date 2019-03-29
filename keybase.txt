@@ -1,0 +1,54 @@
+https://keybase.io/rm1984
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rm1984.github.io
+  * I am rm1984 (https://keybase.io/rm1984) on keybase.
+  * I have a public key ASCyajYH_EjH40PgNDeLSqUKGFxVCpQuTvu-kngp1xj35Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d02e3e75b9f450bf56a7099b74a0e77c7f3fb374dfe21b0c1413d32c036ad6720a",
+      "host": "keybase.io",
+      "kid": "0120b26a3607fc48c7e343e034378b4aa50a185c550a942e4efbbe927829d718f7e40a",
+      "uid": "8640f9a9eb7730fec0aa1fa0fcee3319",
+      "username": "rm1984"
+    },
+    "merkle_root": {
+      "ctime": 1553871971,
+      "hash": "48e68449af786ea4dafca5222682fe6ca35b5c6b3a8c9d9c5f0eb072d00307d7657e36e1ec79fde448c87a20df1a2d23e8f31e782069082250265105524c112a",
+      "hash_meta": "c87451fb542e91cf3a1ca7f71ffbb80acd05bb2c7f6eaf337e7a7746f0535b12",
+      "seqno": 5054941
+    },
+    "service": {
+      "entropy": "/R8xBEcvJ9MVVbosAi7Y+4xz",
+      "hostname": "rm1984.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1553872010,
+  "expire_in": 504576000,
+  "prev": "13be0e02073e91423eaad8194196bddbe5399687a63b9e4f5737635a0d490954",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsmo2B/xIx+ND4DQ3i0qlChhcVQqULk77vpJ4KdcY9+QKp3BheWxvYWTESpcCE8QgE74OAgc+kUI+qtgZQZa92+U5loemO55PVzdjWg1JCVTEIA+M0Ked9WdehcwcJecmi/G4EhBF5NcYiMwH7nDuvctJAgHCo3NpZ8RA/6TaLApOjFut0MAEfgfNoA5JvbjmCubYhs8HVqry2AcQKT2wA8ExWgHt4otS3DoR/6guErukJyoDaqj0oMxVAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG2qcTQHgG737+CaSGEsLSyfGzy94scVnx5lPqT/EVLYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rm1984
+
