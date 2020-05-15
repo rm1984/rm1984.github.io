@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaldi&display=swap');
+
+body {
+  font-family: 'Jaldi', sans-serif;
+  font-size: 1em;
+  letter-spacing: 0.2em;
+  background-color: #222222;
+  color: #dddddd;
+}
+
+#div_container {
+  border-left: 3px solid #dddddd;
+  width: 90%;
+  margin: auto;
+  margin-top: 5%;
+  margin-left: 5%;
+  padding-left: 5%;
+  padding-bottom: 1%;
+}
+
+#div_projects {
+  border-left: 1px dashed #555555;
+  padding-left: 1%;
+  padding-bottom: 1%;
+}
+
+#div_articles {
+  border-left: 1px dashed #555555;
+  padding-left: 1%;
+  padding-bottom: 1%;
+}
+
+#div_contacts {
+  border-left: 1px dashed #555555;
+  padding-left: 1%;
+  padding-bottom: 1%;
+}
+
+h1 {
+  display: block;
+}
+
+h2 {
+  display: block;
+  margin-bottom: 0px;
+}
+
+a:link {
+  color: orange;
+  text-decoration: none;
+}
+
+a:visited {
+  color: orange;
+  text-decoration: none;
+}
+
+a:hover {
+  color: orange;
+  text-decoration: underline;
+}
+
+a:active {
+  color: orange;
+  text-decoration: none;
+}
