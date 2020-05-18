@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/rm1984
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rm1984.github.io
+  * I am rm1984 (https://keybase.io/rm1984) on keybase.
+  * I have a public key ASCts2kHhd2PAPzzMO1j9v60OeB855k7p6nQrLsl0PgOeQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d02e3e75b9f450bf56a7099b74a0e77c7f3fb374dfe21b0c1413d32c036ad6720a",
+      "host": "keybase.io",
+      "kid": "0120adb3690785dd8f00fcf330ed63f6feb439e07ce7993ba7a9d0acbb25d0f80e790a",
+      "uid": "8640f9a9eb7730fec0aa1fa0fcee3319",
+      "username": "rm1984"
+    },
+    "merkle_root": {
+      "ctime": 1589787778,
+      "hash": "320291e57c06657209351b5251d361206a95ece7899101459632e6dcb0232a5dbb26bb3296dc2d6a84ebfd85c8546dc52754459b29fc17f78c14a31a333e9036",
+      "hash_meta": "31bc99bc6f3f7706ffbb7ed1e8574d65a2faab5ec4a59fc2e0839feac8b2c349",
+      "seqno": 16330811
+    },
+    "service": {
+      "entropy": "Kn9R+vspfHnC3wLEPUrPLedJ",
+      "hostname": "rm1984.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.2"
+  },
+  "ctime": 1589787812,
+  "expire_in": 504576000,
+  "prev": "4d66a62e573790db4c9dbc2d03a9306cf6f46c81b9e5c3440aa836081d666b5a",
+  "seqno": 35,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgrbNpB4XdjwD88zDtY/b+tDngfOeZO6ep0Ky7JdD4DnkKp3BheWxvYWTESpcCI8QgTWamLlc3kNtMnbwtA6kwbPb0bIG55cNECqg2CB1ma1rEII8oO4xqhV5oFopeIZU9ZhTV4sMMX53JYFv57dL3EKH9AgHCo3NpZ8RAegvuCCzDlKIZvep6yGt66CsPr6guw6Hkqa2djAPFCe6Y7BKYdrkHHgabK6JuZRGN7yZ6dz14LCZQPUurTPKaDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICD7bky2cPQbCrl2J/BkTfxUsl+wOvWDyHVnujGpXTZ1o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rm1984
+
+==================================================================
